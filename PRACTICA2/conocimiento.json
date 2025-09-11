@@ -1,0 +1,13 @@
+{
+    "hola": "¡Hola! ¿En qué puedo ayudarte hoy?",
+    "¿cómo estás?": "¡Estoy bien, gracias! Siempre listo para conversar contigo.",
+    "¿qué puedes hacer?": "Puedo responder preguntas, aprender cosas nuevas y charlar contigo.",
+    "¿qué es Python?": "Es un lenguaje de programación muy usado en ciencia y desarrollo.",
+    "¿qué hora es?": "Lo siento, aún no puedo decir la hora exacta.",
+    "¿quién eres?": "Soy un chatbot que está aprendiendo gracias a ti.",
+    "¿qué día es hoy?": "No tengo acceso al calendario, pero puedo ayudarte con otras cosas.",
+    "gracias": "¡De nada! Estoy aquí para ayudarte.",
+    "adiós": "¡Hasta luego! Espero hablar contigo pronto.",
+    "no entiendo": "Lo siento, ¿puedes repetirlo o explicarlo de otra forma?",
+    "salir": "Hasta luego"
+}
