@@ -1,0 +1,377 @@
+{
+  "Frontal": [
+    "está ubicado en la cabeza",
+    "es un hueso plano",
+    "está ubicado en la cara",
+    "es parte de la cavidad nasal",
+    "es parte de la cavidad ocular",
+    "tiene apófisis",
+    "es la unión de varios huesos"
+  ],
+  "Parietal": [
+    "está ubicado en la cabeza",
+    "es par",
+    "es un hueso plano",
+    "hay más de uno en el cuerpo"
+  ],
+  "Temporal": [
+    "está ubicado en la cabeza",
+    "es par",
+    "es un hueso plano",
+    "hay más de uno en el cuerpo",
+    "tiene apófisis"
+  ],
+  "Occipital": [
+    "está ubicado en la cabeza",
+    "es un hueso plano",
+    "tiene apófisis",
+    "tiene una cresta bien definida",
+    "es la unión de varios huesos"
+  ],
+  "Esfenoides": [
+    "está ubicado en la cabeza",
+    "es un hueso irregular",
+    "es parte de la cavidad nasal",
+    "es parte de la cavidad ocular",
+    "tiene apófisis",
+    "tiene una cresta bien definida"
+  ],
+  "Etmoides": [
+    "está ubicado en la cabeza",
+    "es un hueso irregular",
+    "está ubicado en la cara",
+    "es parte de la cavidad nasal",
+    "es parte de la cavidad ocular",
+    "tiene apófisis",
+    "tiene una cresta bien definida"
+  ],
+  "Nasales": [
+    "está ubicado en la cabeza",
+    "es par",
+    "es un hueso plano",
+    "hay más de uno en el cuerpo",
+    "está ubicado en la cara",
+    "es parte de la cavidad nasal"
+  ],
+  "Lagrimales": [
+    "está ubicado en la cabeza",
+    "es par",
+    "es un hueso plano",
+    "hay más de uno en el cuerpo",
+    "está ubicado en la cara",
+    "es parte de la cavidad nasal",
+    "es parte de la cavidad ocular"
+  ],
+  "Cigomático": [
+    "está ubicado en la cabeza",
+    "es par",
+    "es un hueso irregular",
+    "hay más de uno en el cuerpo",
+    "está ubicado en la cara",
+    "es parte de la cavidad ocular",
+    "tiene apófisis"
+  ],
+  "Maxilar superior": [
+    "está ubicado en la cabeza",
+    "es par",
+    "es un hueso irregular",
+    "hay más de uno en el cuerpo",
+    "está ubicado en la cara",
+    "es parte de la cavidad nasal",
+    "es parte de la cavidad ocular",
+    "tiene apófisis"
+  ],
+  "Cornete inferior": [
+    "está ubicado en la cabeza",
+    "es par",
+    "es un hueso irregular",
+    "hay más de uno en el cuerpo",
+    "está ubicado en la cara",
+    "es parte de la cavidad nasal"
+  ],
+  "Palatinos": [
+    "está ubicado en la cabeza",
+    "es par",
+    "es un hueso irregular",
+    "hay más de uno en el cuerpo",
+    "está ubicado en la cara",
+    "es parte de la cavidad nasal",
+    "es parte de la cavidad ocular",
+    "tiene apófisis",
+    "está ubicado en la parte posterior de la boca"
+  ],
+  "Vómer": [
+    "está ubicado en la cabeza",
+    "es un hueso plano",
+    "está ubicado en la cara",
+    "es parte de la cavidad nasal"
+  ],
+  "Mandíbula": [
+    "está ubicado en la cabeza",
+    "es un hueso irregular",
+    "está ubicado en la cara",
+    "tiene apófisis",
+    "tiene una cresta bien definida",
+    "está ubicado en la parte posterior de la boca",
+    "tiene cabeza",
+    "es la unión de varios huesos"
+  ],
+  "Martillo": [
+    "está ubicado en la cabeza",
+    "es par",
+    "es un hueso irregular",
+    "hay más de uno en el cuerpo",
+    "tiene apófisis",
+    "tiene cabeza",
+    "tiene manubrio"
+  ],
+  "Yunque": [
+    "está ubicado en la cabeza",
+    "es par",
+    "es un hueso irregular",
+    "hay más de uno en el cuerpo",
+    "tiene apófisis"
+  ],
+  "Estribo": [
+    "está ubicado en la cabeza",
+    "es par",
+    "es un hueso irregular",
+    "hay más de uno en el cuerpo",
+    "tiene apófisis",
+    "tiene cabeza"
+  ],
+  "Costilla verdadera": [
+    "está ubicado en la cabeza",
+    "está ubicado en el tórax",
+    "es par",
+    "es un hueso irregular",
+    "es un hueso plano",
+    "hay más de uno en el cuerpo",
+    "tiene cabeza",
+    "se une directamente al esternón"
+  ],
+  "Costilla falsa": [
+    "está ubicado en la cabeza",
+    "está ubicado en el tórax",
+    "es par",
+    "es un hueso irregular",
+    "es un hueso plano",
+    "hay más de uno en el cuerpo",
+    "tiene cabeza",
+    "se une indirectamente al esternón"
+  ],
+  "Costilla flotante": [
+    "está ubicado en la cabeza",
+    "está ubicado en el tórax",
+    "es par",
+    "es un hueso irregular",
+    "es un hueso plano",
+    "hay más de uno en el cuerpo",
+    "tiene cabeza"
+  ],
+  "Vértebra cervical": [
+    "está ubicado en la columna vertebral",
+    "es un hueso irregular",
+    "está ubicado en el cuello",
+    "hay más de uno en el cuerpo",
+    "tiene apófisis"
+  ],
+  "Vértebras torácica (12)": [
+    "está ubicado en la columna vertebral",
+    "está ubicado en el tórax",
+    "es un hueso irregular",
+    "hay más de uno en el cuerpo",
+    "tiene apófisis"
+  ],
+  "Vértebras lumbar": [
+    "está ubicado en la columna vertebral",
+    "es un hueso irregular",
+    "hay más de uno en el cuerpo",
+    "tiene apófisis"
+  ],
+  "Clavícula": [
+    "está ubicado en los miembros",
+    "está ubicado en los miembros superiores",
+    "es par",
+    "es un hueso largo",
+    "hay más de uno en el cuerpo"
+  ],
+  "Escápula": [
+    "está ubicado en los miembros",
+    "está ubicado en los miembros superiores",
+    "es par",
+    "es un hueso plano",
+    "hay más de uno en el cuerpo",
+    "tiene apófisis"
+  ],
+  "Hioides": [
+    "es un hueso irregular",
+    "está ubicado en el cuello",
+    "tiene apófisis"
+  ],
+  "Sacro": [
+    "está ubicado en la columna vertebral",
+    "es un hueso irregular",
+    "tiene apófisis",
+    "tiene una cresta bien definida",
+    "es la unión de varios huesos",
+    "está en la pelvis",
+    "es la unión de varios huesos"
+  ],
+  "Cóccix": [
+    "está ubicado en la columna vertebral",
+    "es un hueso irregular",
+    "tiene apófisis",
+    "es la unión de varios huesos",
+    "está en la pelvis",
+    "es la unión de varios huesos"
+  ],
+  "Esternón": [
+    "está ubicado en el tórax",
+    "es un hueso plano",
+    "tiene apófisis",
+    "tiene manubrio",
+    "es la unión de varios huesos"
+  ],
+  "Húmero": [
+    "está ubicado en los miembros",
+    "está ubicado en los miembros superiores",
+    "es par",
+    "es un hueso largo",
+    "hay más de uno en el cuerpo",
+    "tiene apófisis",
+    "tiene cabeza"
+  ],
+  "Radio": [
+    "está ubicado en los miembros",
+    "está ubicado en los miembros superiores",
+    "es par",
+    "es un hueso largo",
+    "hay más de uno en el cuerpo",
+    "tiene apófisis",
+    "tiene cabeza",
+    "se ubica en el antebrazo",
+    "gira sobre el cúbito"
+  ],
+  "Cúbito": [
+    "está ubicado en los miembros",
+    "está ubicado en los miembros superiores",
+    "es par",
+    "es un hueso largo",
+    "hay más de uno en el cuerpo",
+    "tiene apófisis",
+    "tiene cabeza",
+    "se ubica en el antebrazo"
+  ],
+  "Hueso del carpo": [
+    "está ubicado en los miembros",
+    "está ubicado en los miembros superiores",
+    "es par",
+    "es un hueso irregular",
+    "hay más de uno en el cuerpo",
+    "es parte de la muñeca"
+  ],
+  "un Metacarpo": [
+    "está ubicado en los miembros",
+    "está ubicado en los miembros superiores",
+    "es par",
+    "es un hueso largo",
+    "hay más de uno en el cuerpo",
+    "tiene apófisis",
+    "tiene cabeza",
+    "es parte de la muñeca"
+  ],
+  "Falange en  mano (10)": [
+    "está ubicado en los miembros",
+    "está ubicado en los miembros superiores",
+    "es par",
+    "es un hueso largo",
+    "hay más de uno en el cuerpo",
+    "tiene apófisis",
+    "tiene cabeza"
+  ],
+  "Coxales o iliacos ": [
+    "está ubicado en los miembros",
+    "está ubicado en los miembros inferiores",
+    "es par",
+    "es un hueso irregular",
+    "hay más de uno en el cuerpo",
+    "tiene apófisis",
+    "es la unión de varios huesos",
+    "está en la pelvis"
+  ],
+  "Fémur": [
+    "está ubicado en los miembros",
+    "está ubicado en los miembros inferiores",
+    "es par",
+    "es un hueso largo",
+    "hay más de uno en el cuerpo",
+    "tiene apófisis",
+    "tiene cabeza"
+  ],
+  "Rótula": [
+    "está ubicado en los miembros",
+    "está ubicado en los miembros inferiores",
+    "es par",
+    "es un hueso irregular",
+    "hay más de uno en el cuerpo",
+    "tiene apófisis",
+    "es parte de la rodilla"
+  ],
+  "Tibia": [
+    "está ubicado en los miembros",
+    "está ubicado en los miembros inferiores",
+    "es par",
+    "es un hueso largo",
+    "hay más de uno en el cuerpo",
+    "tiene apófisis",
+    "tiene cabeza",
+    "se ubica en la pierna",
+    "se ubica en la rodilla",
+    "es parte de la rodilla",
+    "es parte del tobillo",
+    "se articula con el tarso"
+  ],
+  "Peroné": [
+    "está ubicado en los miembros",
+    "está ubicado en los miembros inferiores",
+    "es par",
+    "es un hueso largo",
+    "hay más de uno en el cuerpo",
+    "tiene apófisis",
+    "tiene cabeza",
+    "se ubica en la pierna",
+    "es parte del tobillo",
+    "se articula con el tarso"
+  ],
+  "Hueso del tarso": [
+    "está ubicado en los miembros",
+    "está ubicado en los miembros inferiores",
+    "es par",
+    "es un hueso irregular",
+    "hay más de uno en el cuerpo",
+    "tiene apófisis",
+    "es parte del tobillo"
+  ],
+  "Metatarsiano": [
+    "está ubicado en los miembros",
+    "está ubicado en los miembros inferiores",
+    "es par",
+    "es un hueso largo",
+    "hay más de uno en el cuerpo",
+    "tiene apófisis",
+    "tiene cabeza",
+    "es parte del tobillo",
+    "se articula con el tarso"
+  ],
+  "Falange del pie ": [
+    "está ubicado en los miembros",
+    "está ubicado en los miembros inferiores",
+    "es par",
+    "es un hueso largo",
+    "hay más de uno en el cuerpo",
+    "tiene apófisis",
+    "tiene cabeza",
+    "es parte del tobillo"
+  ]
+}
