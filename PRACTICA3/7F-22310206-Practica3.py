@@ -153,10 +153,10 @@ while(True):
     """
     
     if pregunta== 's':
-        SiCaract.append(P)
+        SiCaract.append(ValorDiffMenor)
      
     else:
-        NoCaract.append(P)
+        NoCaract.append(ValorDiffMenor)
         
     X=True
     #sigue verificar que huesos cumplen con las especificaciones, comenzando desde el inicio
